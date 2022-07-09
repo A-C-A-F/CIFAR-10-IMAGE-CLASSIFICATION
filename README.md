@@ -1,5 +1,5 @@
-# CIFAR-10-IMAGE-CLASSIFICATION
-Cifar-10 Image Classification with Keras and Tensorflow 2.0
+# CIFAR-10-Image-Classification
+CIFAR-10 Image Classification with Keras and Tensorflow 2.0
 
 
 In this project, we will build, train, and test a deep neural network model to classify low-resolution images containing airplanes, cars, birds, cats, ships, and trucks in Keras and Tensorflow 2.0. We will use Cifar-10 which is a benchmark dataset that stands for the Canadian Institute For Advanced Research (CIFAR) and contains 60,000 32x32 color images
